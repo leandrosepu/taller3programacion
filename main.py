@@ -1,5 +1,6 @@
 #Taller 3 - Programacion
-print("Hey There!!")
+# Benjamin Hidalgo - Franco Perez - Leandro Sepúlveda
 
-while True:
-    print("#######")
+#MAIN
+
+
