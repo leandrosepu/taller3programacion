@@ -3,5 +3,5 @@
 
 #MAIN
 
-print(ajkdajwdawdad)
+
 
